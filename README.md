@@ -6,3 +6,5 @@ Pick the bigger Number
 ![alt text](https://raw.githubusercontent.com/FainTkL/BiggerNumberGame/pointsgame.PNG)
 
 ![Alt text](BiggerNumberGame/pointsgame.PNG?raw=true "Title")
+
+![Screenshot](pointsgame.PNG)
